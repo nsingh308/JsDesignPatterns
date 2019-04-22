@@ -1,0 +1,26 @@
+{
+    "floor":[
+        {"name":"Bread","qty":2},
+        {"name":"Butter","qty":1},
+        {"name":"vegetables","qty":3},
+        {"name":"fruits","qty":4}
+    ],
+    "backroom":[
+        {"name":"Shoes","qty":12},
+        {"name":"Socks","qty":11},
+        {"name":"Branded Shoes","qty":13},
+        {"name":"Branded Socks","qty":14}
+    ],
+    "localstore":[
+        {"name":"Cricket Bat","qty":20},
+        {"name":"Hockey Bat","qty":100},
+        {"name":"Branded Gloves","qty":3},
+        {"name":"Branded Hat","qty":4}
+    ],
+    "warehouse":[
+        {"name":"Phone Charger MI","qty":2},
+        {"name":"Laptop","qty":1},
+        {"name":"Simcard","qty":3},
+        {"name":"Branded Laptop","qty":4}
+    ]
+}
